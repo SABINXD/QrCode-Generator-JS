@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>QR Code Generator || CodeWithSabin</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <input type="text" id="data-input" placeholder="Enter your data" />
+        <button id="generateQr" class="btn">Generate</button>
+      </div>
+
+      <div class="hidden main">
+        <div class="main-sec fade-in">
+          <img id="qr-img" src="download.png" alt="QR Code" />
+        </div>
+        <div class="extra-btn">
+          <button id="cancel-btn" class="btn">Cancel</button>
+          <button id="download-btn" class="btn">
+            <i class="fas fa-download"></i> Download
+            <span class="loader hidden"></span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <script src="index.js"></script>
+  </body>
+</html>
