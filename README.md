@@ -33,15 +33,11 @@ Once you submit your input, the API returns a QR code image which is displayed i
 ```bash
 git clone https://github.com/SABINXD/QrCode-Generator-JS/
 ```
-Open index.html in your browser.
+Open `index.html` in your browser. <br>
 Enter your data and get your QR code instantly!
 
 ### 📁 Project Structure
-QrCode-Generator-JS/
-├── index.html   # Main HTML file
-├── style.css    # Styling
-├── index.js     # QR code generation logic
-
+<pre> ``` QrCode-Generator-JS/ <br> ├── index.html       # Main HTML file  <br> ├── style.css       # Styling <br> └── index.js       # QR code generation logic  </pre>
 ### 📷 Example Output
 Coming Soon
 
