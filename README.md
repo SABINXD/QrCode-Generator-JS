@@ -41,7 +41,7 @@ Enter your data and get your QR code instantly!
 ### 📷 Example Output
 **[Qr Code Generator Preview](https://sabinxd.github.io/QrCode-Generator-JS/)**
 
-### ScreenShots
+### 📷ScreenShots
 <img width="1060" height="466" alt="image" src="https://github.com/user-attachments/assets/66808818-1285-4617-889f-700bfffff12a" /> 
 <img width="1354" height="589" alt="image" src="https://github.com/user-attachments/assets/c514933b-010a-40c5-929d-56a638ee12df" />
 
